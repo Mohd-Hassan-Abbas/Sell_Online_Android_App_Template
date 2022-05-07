@@ -1,4 +1,4 @@
-# Sell_Online_Android_App_Template
+# "Sell Online" Android App Template
 
 Android App Basic Template Sell Online
 A basic Android template.
@@ -10,4 +10,4 @@ My YouTube channel ->
 https://youtube.com/channel/UCfhgr5gsFhrNuUu_NhjtWsA
 
 My Instagram -> 
-https://www.instagram.com/hassan_abbasi8
+https://www.instagram.com/hassan_abbasi8/
